@@ -1,0 +1,10 @@
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\bin\Debug\Gomoku.exe.config
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\bin\Debug\Gomoku.exe
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\bin\Debug\Gomoku.pdb
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.GForm.resources
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.exe
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.pdb
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+D:\UCP\Semester 3\OOP\lecture_13 (Gomoku)\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
